@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gurucool-project",
+  "private_key_id": "0db1d68f696fa7c778729536fd793383d9eb6385",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC3V+WSjWr0/e6b\nlcM6T7k76XW8ViCWwhqa+1Oh+SUSLgXzm7e/M30V4cYMQXnmbScUF754bAK/MjeI\nvgItZG7pRunJoD3FMYgQJb/zONoaFe5FDrgxhe/AMEQ0ah6Vv9xZ3gRo2z944RuJ\nHF0W9Me7mBhOThM58D2svitbFRzr+M9JSm0ZKps/qaAUv8nvHKzHyuqzUDmqnD9J\nFiOCGmJMISamNzTlxvYrkTaoT0mQk3rKTfJAMnYuuOkUOJ3kwud1P7/JgEQ9XRiX\nWCcmnD/vS6VRcc1RBeEDa8bV5o/ZLC7lCfs4wsF41366NU2k+GkWaZKBQqDsaVk9\nXSybSFfJAgMBAAECggEAGz8tR2PL1t/b83REwKgza4Ns81HLYwwynwCls6cOis6b\nJNJp8rjIqJVWdODQKF3lVleW/1dx6w8f8KroMO3Bi9p1iPjO5TzQrzGk/pTe2MyU\njd+7oOR6NlIV+MIijHeoXBSiDCE1JBY0HOLBtNUoz6ixSAXTVqNszvyt/cm79BdT\nSw1WyjT16e/u1EB3oFna+AykSk2bgx4oqCqt1OhzRX40nFOdE09Pxr4yXHasD6L9\ndp05StR/DYrvJlTcUD0lRwVIFe+9f2srQaHrJhsdbf+9zpXUBh3clLWBk0FwI5h1\nT9Sax0S6UEGqauatCTCb6o+1fURFhVVjbnPr3iB4TwKBgQD6MwVajvmCgpaCOo7O\npm5UrAnDpcOL55Qwqy6GVi0xYGAg4OKq62+STvyA4niFiEcx86L9VcYmvVRIPTLf\n052YqSYvyq7OcvFy69GoaGGrHVfN6nBDL7blpO+B1AdEPkRXWReuqPxOKarzc4mF\nG3TgYK5WTAJ6qIeLhLSanLVoGwKBgQC7mBLLPcaJBDSEeeO1LJimn5UknCI3pUJw\n/fC1YKVxNv6eOKljfGavfpZjuIm5f0z6eycTWhzGnegWE3AFWTgxZLhzZ6+HPVU4\nwFn2HU6OiPtMWP4iATENM49pFt+WVOgo6qOtufZF9/Le7OgA17GiduT8tGwdwmEv\nfdLyKz/F6wKBgQCcagcfzSBJKfCD663ZnQx+nKriCCBOt3DaWDoWu4s3QiP2igDK\nj7NJiV2sCWkFOeQgY0rzC4t8LoKhQrkqWrY8eQqpeBF+eTde+/QvT0o32nlI/xY9\nuneh61HcHTyJuk+pN8ZpZ7WL+9qmpgVEFJ0lpOt4gb5PBkruuwDZY7y5HwKBgQCH\nLuhkM6ktNa2OxbN07KU4dYlpb2YtCVcey7A5VGMEeef0JsrSGWR6FNPVGreMyBK1\n8idPh8Fy03na5rjz8b5PwdA1wcM4xtbx5ZMuiyIADvBgrUS9RnSNmdk/lq8ayybd\nzXCUEY1KEIqhYMEzUjv84obTIEVFEL0uFxL7VnVHbwKBgQC0BRsuPuVlTtixvycI\nmxOWGXfj8j4qBrHeWYrgzNSx0lTMKW3UpKMLWoOR0nRAQOMLT7fOT6PEAJuhJooi\nYxbqnYmMtQumKQhfyiJYfISAhbj0/z1/ZREv9WXOzqsG92bpWI37NULlUbX6oMpT\n8fUfR9Hs2iXOOpSoufdkSRk39Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "subodhdb-723@gurucool-project.iam.gserviceaccount.com",
+  "client_id": "112070015022837809352",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/subodhdb-723%40gurucool-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
